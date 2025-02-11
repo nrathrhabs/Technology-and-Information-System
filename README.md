@@ -5,7 +5,7 @@
 
 <br>
 
-[![Assignment 1](https://img.shields.io/badge/Go_to-Assignment_1-pink?style=for-the-badge)]([https://github.com/nrathrhabs/Another-Button](https://github.com/nrathrhabs/Assignment-1/blob/main/README.md))
+[![Assignment 1](https://img.shields.io/badge/Go_to-Assignment_1-pink?style=for-the-badge)](https://github.com/nrathrhabs/Assignment-1/blob/main/README.md)
 </div>
 
 
